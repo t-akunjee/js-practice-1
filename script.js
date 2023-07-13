@@ -2,7 +2,9 @@
 
 /*variable*/
 
-var rahim=10;
-var rahim=rahim+22;
+var one=20;
+	two=30;
+	three=40;
+	five=50;
 
-alert(rahim);
+alert(one+two+three+five);
