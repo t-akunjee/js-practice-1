@@ -2,6 +2,5 @@
 
 /*variable*/
 
-var amra=new Array("profession":"Developer","age":28,"Dept":"CSE");
-
-alert("Amar Profession : " + amar["profession"]);
+var ami="WordPress Developer";
+alert(ami.length);
