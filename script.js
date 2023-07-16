@@ -2,5 +2,6 @@
 
 /*variable*/
 
-var ami="WordPress Developer";
-alert(ami.length);
+var ami="WordPress is Developer";
+var tumi=ami.indexOf("is");
+alert(tumi);
