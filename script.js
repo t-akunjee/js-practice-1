@@ -2,9 +2,6 @@
 
 /*variable*/
 
-var one=20;
-	two=30;
-	three=40;
-	five=50;
+var amra=new Array("profession":"Developer","age":28,"Dept":"CSE");
 
-alert(one+two+three+five);
+alert("Amar Profession : " + amar["profession"]);
